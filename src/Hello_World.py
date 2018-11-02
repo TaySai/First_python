@@ -38,7 +38,7 @@ a = 0
 print(a)
 try:
     a = b/c
-except Exception as e:
+except NameError as e:
     print("t'es null on peut pas diviser par 0")
 finally:
     a = None
