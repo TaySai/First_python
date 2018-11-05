@@ -1,3 +1,4 @@
+# we ask the user to tape a good value until he give the good answer
 while True:
     # Validate all strings with numbers and only one "." (point)
     sentence = input('Type your text: ')
