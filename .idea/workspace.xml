@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d96881b-4e5c-4336-9c80-99e4dbc1b971" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Hello_World.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises_for_6_nov/question1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises_for_6_nov/question2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises_for_6_nov/question3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises_for_6_nov/question4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,30 +19,31 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
+          <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="php" value="1" />
-          <entry key="py" value="1" />
+          <entry key="py" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="1" />
+          <entry key="Python" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="655" />
+          <entry key="py" value="1986" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="655" />
+          <entry key="Python" value="1986" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -46,15 +51,51 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Hello_World.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="54" column="2" lean-forward="true" selection-start-line="54" selection-start-column="2" selection-end-line="54" selection-end-column="2" />
+            <state relative-caret-position="238">
+              <caret line="20" column="23" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="23" />
               <folding>
-                <marker date="1541173386257" expanded="true" signature="602:603" ph="..." />
+                <marker date="1541174307268" expanded="true" signature="761:762" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/exercises_for_6_nov/question2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/exercises_for_6_nov/question3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/exercises_for_6_nov/question1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/exercises_for_6_nov/question4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="4" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -75,6 +116,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Hello_World.py" />
+        <option value="$PROJECT_DIR$/src/exo_6_nov.py" />
+        <option value="$PROJECT_DIR$/src/exercises_for_6_nov/question4.py" />
+        <option value="$PROJECT_DIR$/src/exercises_for_6_nov/question1.py" />
+        <option value="$PROJECT_DIR$/src/exercises_for_6_nov/question2.py" />
+        <option value="$PROJECT_DIR$/src/exercises_for_6_nov/question3.py" />
       </list>
     </option>
   </component>
@@ -95,7 +141,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -103,10 +148,22 @@
               <item name="First_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="First_python" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="First_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="First_python" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="First_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="First_python" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises_for_6_nov" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -144,7 +201,7 @@
     <frame x="10" y="20" width="1346" height="688" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496112" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2534992" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -181,11 +238,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Hello_World.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="54" column="2" lean-forward="true" selection-start-line="54" selection-start-column="2" selection-end-line="54" selection-end-column="2" />
+        <state relative-caret-position="238">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="23" />
           <folding>
-            <marker date="1541173386257" expanded="true" signature="602:603" ph="..." />
+            <marker date="1541174307268" expanded="true" signature="761:762" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exo_6_nov.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercises_for_6_nov/question1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercises_for_6_nov/question2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercises_for_6_nov/question4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercises_for_6_nov/question3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="14" />
         </state>
       </provider>
     </entry>
