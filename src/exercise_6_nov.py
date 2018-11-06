@@ -33,3 +33,25 @@ while True:
         break
     else:
         print(message)
+
+# conversion to float
+tester = True
+length_sentence = len(sentence)
+i = 0
+power_pos = 0
+power_neg = -1
+float_number = float(0)
+# print(length_sentence)
+while i <= length_sentence-1:
+    if sentence[i].isdecimal() and tester:
+        float_number = float_number * (10 ** power_pos) + float(sentence[i])
+        power_pos = 1
+    elif not tester:
+        float_number = float(sentence[i]) * (10 ** power_neg) + float_number
+        power_neg -= 1
+    else:
+        tester = False
+    i += 1
+print(type(float_number))
+print(float_number)
+
