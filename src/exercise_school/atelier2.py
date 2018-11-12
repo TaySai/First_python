@@ -11,5 +11,3 @@ def random_number():
 generator = random_number()
 while True:
     print(next(generator))
-
-
